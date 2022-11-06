@@ -1,5 +1,5 @@
-_Coming soon!_
-
 # Instagram - Clean My Feed
 
-Mainly hides sponsored posts in Instagram's feed.
+- Hides Sponsored articles in feed
+- Add video controls and remove overlays
+- Insert menu entry "Following" in menu side-bar.
